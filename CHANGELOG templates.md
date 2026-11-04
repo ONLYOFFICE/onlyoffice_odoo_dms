@@ -1,5 +1,12 @@
 # Change Log
 
+## Unreleased
+
+## Fixed
+
+- headers and footers inherited from an earlier section were wiped from the filled document, and the earlier section's
+  own header was never filled
+
 ## 2.4.2
 
 ## Added
